@@ -1,5 +1,5 @@
 Title:
-Vaccine Tracker using cowin\
+Vaccine Tracker using cowin
 
 Description:
 In this website we are going to get corona vaccine slots, vaccine type, Fee type and where are the places vaccines are alloted using cowin api.
