@@ -19,3 +19,4 @@ requests==2.25.1
 urllib3==1.26.4
 Werkzeug==1.0.1
 
+After installing requirements in your pc run this command : python api.py
